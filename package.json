@@ -1,0 +1,22 @@
+{
+  "name": "elementary-electron",
+  "version": "1.0.0",
+  "description": "learning elementary electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracetveit/elementary-electron.git"
+  },
+  "author": "Grace Tveit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracetveit/elementary-electron/issues"
+  },
+  "homepage": "https://github.com/gracetveit/elementary-electron#readme",
+  "dependencies": {
+    "cat-picture": "^5.1.2"
+  }
+}
